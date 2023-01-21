@@ -1,20 +1,10 @@
-<!--
-**Camdas-GitPro/Camdas-GitPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!--**Camdas-GitPro/Camdas-GitPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Camdas-GitPro&color=blue" alt="Profile views" /> </p>
+<img align="right" height="380em" src="https://raw.githubusercontent.com/gist/Camdas-GitPro/d24811faa74f46190dd253529dd97fc2/raw/7c26e14b0d531e2076d55a23eb209e9284d1ef12/githubcard.svg"/>
 
 <h1 align="center">Hi 👋, I'm Camdas-GitPro</h1>
 <h3 align="center">Um apaixonado por tecnologia</h3>
+
 
 - 🔭 Atualmente estou trabalhando em **CCNA2**
 
@@ -32,7 +22,7 @@ Here are some ideas to get you started:
 
 - 📫 Como chegar até mim **camdas@gmail.com**
 
-- ⚡ Curiosidade **Eu sou incrível**
+- ⚡ Curiosidade **Eu sou incrível 😜**
 
 <h3 align="left">Conecte-se comigo:</h3>
 <p align="left">
