@@ -1,8 +1,14 @@
 <!--**Camdas-GitPro/Camdas-GitPro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Camdas-GitPro&color=blue" alt="Profile views" /> </p>
-<img align="right" height="380em" src="https://raw.githubusercontent.com/gist/Camdas-GitPro/d24811faa74f46190dd253529dd97fc2/raw/7c26e14b0d531e2076d55a23eb209e9284d1ef12/githubcard.svg"/>
 
-<h1 align="center">Hi 👋, I'm Camdas-GitPro</h1>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Camdas-GitPro&color=blue" alt="Profile views" />  
+<br>
+<br>
+•  <a href="https://github.com/sw-yx/README">README - Ainda mais sobre mim! ⬅️ 👍</a>
+</p>
+<br>
+<img align="right" height="380em" src="https://raw.githubusercontent.com/gist/Camdas-GitPro/d24811faa74f46190dd253529dd97fc2/raw/7c26e14b0d531e2076d55a23eb209e9284d1ef12/githubcard.svg"/> 
+
+<h1 align="center">Olá 👋, Eu sou o Carlos André.</h1>
 <h3 align="center">Um apaixonado por tecnologia</h3>
 <br>
 
@@ -48,3 +54,5 @@
 <!-- Linguagens -->
 <a href="https://github.com/Camdas-GitPro" align="left"><img src="https://github-readme-stats-peguimasid.vercel.app/api/top-langs/?username=Camdas-GitPro&layout=compact&title_color=3382ed&hide=css,objective-c,html&text_color=ffffff&icon_color=3382ed&bg_color=171717&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 </br>
+
+
