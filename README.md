@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=Camdas-GitPro&color=blue" alt="Profile views" />  
 <br>
 <br>
-•  <a href="https://github.com/sw-yx/README">README - Ainda mais sobre mim! ⬅️ 👍</a>
+•  <a href="https://github.com/Camdas-GitPro/Sobre-mim/tree/Camdas-GitPro-Sobremim">README - Ainda mais sobre mim! ⬅️ 👍</a>
 </p>
 <br>
 <img align="right" height="380em" src="https://raw.githubusercontent.com/gist/Camdas-GitPro/d24811faa74f46190dd253529dd97fc2/raw/7c26e14b0d531e2076d55a23eb209e9284d1ef12/githubcard.svg"/> 
